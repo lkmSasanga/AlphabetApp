@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alphabet for Kids</string>
+    <string name="appleTextView">Apple</string>
+    <string name="buttonText">Next</string>
+    <string name="backToApple">Back</string>
+    <string name="ballTextView">Ball</string>
+    <string name="BbuttonText">Next</string>
+</resources>
